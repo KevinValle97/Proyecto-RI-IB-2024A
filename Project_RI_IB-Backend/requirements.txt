@@ -1,0 +1,5 @@
+flask
+pymongo
+nltk
+flask-cors
+flask_pymongo
