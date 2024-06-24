@@ -4,4 +4,8 @@ Information Retrieval System based on Reuters-21578 Corpus
 
 Team Members: Madelyn Fernandez, Carlos Sanchez, Kevin Valle
 
-The project instructions can be found in the document proyecto01.pdf
+You can access the project documentation in the PROYECTO IB - RI.pdf document.
+
+The data processing is located in the sri-reuters-21578.ipynb file.
+
+The project instructions can be found in the proyecto01.pdf document.
